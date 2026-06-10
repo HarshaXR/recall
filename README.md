@@ -1,5 +1,5 @@
 <img width="2670" height="1224" alt="image" src="https://github.com/user-attachments/assets/20d0cee1-eec1-4684-ba65-50121dfb4e32" />
-# RECALL.
+
 
 This is Recall.
 Artifical Intelligence that *actually* remembers you.
@@ -8,12 +8,10 @@ Recall stores your most valuable memories and thoughts as bubbles on the Recall 
 
 recall respects your privacy, all data is stored on-device.
 
-<H2>Features</H2>
-- Memories
+<H2>Memories</H2>
 Every important memory becomes a floating bubble inside an interactive 3D sphere.
 
 - Explore memories visually
-- Navigate through your personal memory graph
 - View memories by importance and relevance
 - Experience your history instead of scrolling through it
 
@@ -26,4 +24,4 @@ Recall remembers context across conversations and uses your memory graph to prov
 Most AI assistants remember things.
 Recall lets you *see* them.
 Instead of a hidden memory system, Recall transforms memory into something tangible — a dynamic representation of who you are and how you've changed over time.
-It's not just a chatbot. It's a map of your mind.
+It's not just a chatbot. It's a map of your mind to help build a better you.
